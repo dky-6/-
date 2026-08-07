@@ -1,0 +1,28 @@
+[
+  {
+    "name": "2025 像素旅行",
+    "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20travel%20landscape%20mountains%20and%20lake%20terrarria%20style%20soft%20colors%20scenic%20view&image_size=landscape_4_3",
+    "path": "",
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20green%20forest%20with%20sunlight%20terrarria%20style%20soft%20pixel%20scenery&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20sunset%20over%20ocean%20terrarria%20style%20warm%20orange%20sky%20pixel%20landscape&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20snowy%20mountain%20peak%20terrarria%20style%20cool%20blue%20tones%20pixel%20scenery&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20desert%20with%20cactus%20terrarria%20style%20warm%20yellow%20sand%20pixel%20art&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20waterfall%20in%20jungle%20terrarria%20style%20lush%20green%20pixel%20landscape&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20starry%20night%20sky%20over%20hills%20terrarria%20style%20purple%20gradient%20pixel%20art&image_size=square"
+    ]
+  },
+  {
+    "name": "日常生活碎片",
+    "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20cozy%20desk%20with%20computer%20and%20coffee%20terrarria%20style%20warm%20lighting&image_size=landscape_4_3",
+    "path": "",
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20cup%20of%20coffee%20on%20wooden%20table%20terrarria%20style%20cozy%20mood&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20bookshelf%20with%20books%20terrarria%20style%20warm%20study%20room%20pixel%20art&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20cat%20sleeping%20on%20sofa%20terrarria%20style%20cute%20pet%20pixel%20art&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20potted%20plants%20on%20windowsill%20terrarria%20style%20green%20leaves%20pixel%20art&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20rainy%20window%20view%20terrarria%20style%20moody%20atmosphere%20pixel%20art&image_size=square",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pixel%20art%20breakfast%20plate%20with%20eggs%20and%20toast%20terrarria%20style%20food%20pixel%20art&image_size=square"
+    ]
+  }
+]

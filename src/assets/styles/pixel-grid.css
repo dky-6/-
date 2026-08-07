@@ -1,0 +1,12 @@
+/* ============================================================
+   像素网格背景
+   在 body 上叠加细网格，营造像素世界的方格感
+   ============================================================ */
+
+body {
+  background-image:
+    linear-gradient(rgba(90, 74, 58, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(90, 74, 58, 0.06) 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-attachment: fixed;
+}
